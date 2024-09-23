@@ -39,21 +39,13 @@
 <!-- Add a section for what technologies you work with -->
 ### 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js, TailwindCSS, Sass
+- **Frontend:** HTML, CSS, JavaScript, React, Angular(11+), TailwindCSS, Sass
 - **Backend (optional):** Node.js, Express.js
-- **Databases (optional):** MongoDB, Firebase
-- **Tools:** Git, GitHub, VS Code, Figma, Webpack
+- **Databases (optional):** MongoDB, Firebase, MySql
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-<!-- Optionally list your GitHub activity -->
-### 🔥 Recent GitHub Activity
-<!-- GitHub Activity Chart -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=varnitj178&theme=react-dark" alt="[your-github-username] activity graph" />
-</p>
-
----
 
 <!-- List some fun repositories/projects -->
 ### 🌟 Featured Projects
