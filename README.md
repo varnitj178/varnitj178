@@ -51,7 +51,7 @@
 ### 🌟 Featured Projects
 
 - [Portfolio Website](https://varnitjain.com) - My personal portfolio website built with [tech stack]
-- [Project Name](https://github.com/varnitj178/convoflow) - A short description of your project
+- [ConvoFlow](https://github.com/varnitj178/convoflow) - Chat Application build using react, firebase
 
 
 ---
