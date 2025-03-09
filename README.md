@@ -50,9 +50,9 @@
 <!-- List some fun repositories/projects -->
 ### 🌟 Featured Projects
 
-- [Project Name](https://github.com/your-username/project-repo-name) - A short description of your project
-- [Portfolio Website](https://your-portfolio-link.com) - My personal portfolio website built with [tech stack]
-- [Another Cool Project](https://github.com/your-username/another-project) - Short project description
+- [Portfolio Website](https://varnitjain.com) - My personal portfolio website built with [tech stack]
+- [Project Name](https://github.com/varnitj178/convoflow) - A short description of your project
+
 
 ---
 
